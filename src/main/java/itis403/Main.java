@@ -16,6 +16,7 @@ public class Main {
         taksa.bark();
         taksa.eat();
         buldog.sleep();
+        buldog.drool();
 
     }
 }
