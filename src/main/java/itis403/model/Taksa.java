@@ -6,6 +6,7 @@ public class Taksa extends Dog {
     }
 
     public Taksa() {
+
     }
 
     public Taksa(String name, int age, int paws, String wool) {
